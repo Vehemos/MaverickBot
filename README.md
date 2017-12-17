@@ -1,5 +1,6 @@
 # MaverickBot
 Simple Bot I coded using python3 and its modules after learning from Youtube
+
 Feel free to add improvements and to point out my mistakes :)
 
 Here are the the libraries I used (along with links to them + Linux commands for installing them)
