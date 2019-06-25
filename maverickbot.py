@@ -69,7 +69,7 @@ def maverick(command):
 		recipientName = takecommand()
 		response('What is their E-Mail Address?')
 		recipientID = takecommand()
-		response('Please tell me the content of the mail which you weant to send to ' + recipientID)
+		response('Please tell me the content of the mail which you want to send to ' + recipientID)
 		content = takecommand()
 		
 		mail = smtplib.SMTP('smtp.gmail.com', 80)
